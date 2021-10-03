@@ -12,8 +12,13 @@ Free Guy: Assumindo o Controle
 ✤ StreamFest Assista ilimitado. Tudo de graça.! Assista a filmes completos online!
 ➤ Assistir programas completos, um clique.! ☞ Free Guy: Assumindo o Controle
 
-Server:  <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
-Link: <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ https://bit.ly/3ou2LMQ }}">{{ Assistir }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
 Free Guy: Assumindo o Controle
  (2021) | FILMES COMPLETOS | Na TV, os filmes morrem em um tiroteio:
