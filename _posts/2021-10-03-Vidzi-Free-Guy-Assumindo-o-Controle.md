@@ -15,7 +15,7 @@ Free Guy: Assumindo o Controle
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ https://bit.ly/3ou2LMQ }}">{{ Assistir }}</a>
+      <a href="{{ post.https://bit.ly/3ou2LMQ }}">{{ post.https://bit.ly/3ou2LMQ }}</a>
     </li>
   {% endfor %}
 </ul>
@@ -33,7 +33,7 @@ Assistir Free Guy: Assumindo o Controle
 
 ➤ Link PlayFree Guy: Assumindo o Controle
  | FILMES COMPLETOS
-➥ — 360p:👉 <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
+➥ — 360p:👉[https://bit.ly/3ou2LMQ](/https://bit.ly/3ou2LMQ.pdf)
 ➥ — 480p:👉 <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
 ➥ — 720p:👉 <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
 
