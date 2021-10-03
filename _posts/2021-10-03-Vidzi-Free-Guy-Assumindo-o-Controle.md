@@ -2,8 +2,6 @@
 layout: post
 title:  "Assistir Free Guy: Assumindo o Controle Filme Completo 2021!"
 ---
-Assistir Free Guy: Assumindo o Controle Filme Completo 2021
-==========================================================
 
 ✤ Streaming !! Free Guy: Assumindo o Controle
  - FILMES COMPLETOS
@@ -14,8 +12,8 @@ Free Guy: Assumindo o Controle
 ✤ StreamFest Assista ilimitado. Tudo de graça.! Assista a filmes completos online!
 ➤ Assistir programas completos, um clique.! ☞ Free Guy: Assumindo o Controle
 
-Server: https://bit.ly/3ou2LMQ
-Link: https://bit.ly/3ou2LMQ
+Server:  <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
+Link: <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
 
 Free Guy: Assumindo o Controle
  (2021) | FILMES COMPLETOS | Na TV, os filmes morrem em um tiroteio:
@@ -30,9 +28,9 @@ Assistir Free Guy: Assumindo o Controle
 
 ➤ Link PlayFree Guy: Assumindo o Controle
  | FILMES COMPLETOS
-➥ — 360p:👉 https://bit.ly/3ou2LMQ
-➥ — 480p:👉 https://bit.ly/3ou2LMQ
-➥ — 720p:👉 https://bit.ly/3ou2LMQ
+➥ — 360p:👉 <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
+➥ — 480p:👉 <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
+➥ — 720p:👉 <a href="{{ https://bit.ly/3ou2LMQ }}">{{ https://bit.ly/3ou2LMQ }}</a>
 
 ⇨Free Guy: Assumindo o Controle
  elenco online
